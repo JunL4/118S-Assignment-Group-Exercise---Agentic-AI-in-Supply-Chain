@@ -1,0 +1,3 @@
+policy,stockout_units,stockout_days,fill_rate,holding_cost,stockout_cost,total_cost
+agent,12.0,5,0.9965,407.54,53.0,460.54
+baseline,371.0,45,0.8927,532.35,1964.0,2496.35
